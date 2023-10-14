@@ -1,8 +1,16 @@
 # 💫 About Me:
-👋 Hi, I’m @RajKumar-Developer<br>👀 I’m interested in VR/AR/ER Application and Web Application Development<br>🌱 I’m currently learning Django Backend Framework and Full Stack Development<br>💞️ I’m looking to collaborate on MERN Development<br>📫 Reach me  on LinkedIn rajkumarr28
+👋 Hello, I'm Raj Kumar, a Developer specializing in VR/AR/ER and Web Applications.
+👀 My primary interests lie in creating immersive experiences through Virtual Reality (VR), Augmented Reality (AR), and Extended Reality (ER) applications. Additionally, I excel in Web Application Development.
+
+🌱 Currently, I'm honing my skills in Django Backend Framework and working towards becoming a proficient Full Stack Developer.
+
+💞️ I'm actively seeking opportunities to collaborate on MERN (MongoDB, Express.js, React, Node.js) development projects.
+
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rajkumarr28) for potential collaborations.
 
 
-## 🌐 Socials:
+
+## 🌐 Socials Media:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/Rajkumar28) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Rajkumar](https://www.facebook.com/profile.php?id=100036299504708)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__rajkumar28__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajkumarr28) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/rajkumar28](https://stackoverflow.com/users/22738922/rajkumar28?tab=profile)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rajkumar_r28) 
 
 # 💻 Tech Stack:
