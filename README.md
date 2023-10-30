@@ -25,7 +25,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rajkumar-Developer&label=Profile%20visits&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rajkumar-Developer&label=Profile%20visits&color=0&icon=0&pretty=true)](https://www.linkedin.com/in/rajkumarr28/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
