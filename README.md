@@ -22,11 +22,12 @@
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RajKumar-Developer&theme=github-compact&hide_border=false&bg_color=000000&color=ffffff&area=true&line=5ed3f3&hide_border=false)](https://github.com/RajKumar-Developer)<br/>
 [![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumar-Developer&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/RajKumar-Developer)
 
+
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rajkumar-Developer&icon=0&color=11)]([https://visitcount.itsvg.in](https://github.com/RajKumar-Developer)https://github.com/RajKumar-Developer)
+[![](https://visitcount.itsvg.in/api?id=Rajkumar-Developer&label=Profile%20Views&color=0&icon=4&pretty=false)](https://github.com/RajKumar-Developer)
 
 
 
