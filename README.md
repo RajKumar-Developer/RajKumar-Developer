@@ -19,6 +19,7 @@
 # 📊 GitHub Stats:
 [![cons](https://github-readme-stats.vercel.app/api?username=Rajkumar-Developer&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/RajKumar-Developer)<br/>
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajkumar-Developer&theme=highcontrast&hide_border=false)](https://github.com/RajKumar-Developer)<br/>
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RajKumar-Developer&theme=github-compact&hide_border=false&bg_color=000000&color=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>
 [![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumar-Developer&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/RajKumar-Developer)
 
 ### ✍️ Quote
