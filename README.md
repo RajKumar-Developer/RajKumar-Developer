@@ -25,11 +25,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rajkumar-Developer&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rajkumar-Developer&icon=0&color=11)]([https://visitcount.itsvg.in](https://github.com/RajKumar-Developer)https://github.com/RajKumar-Developer)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!---
-RajKumar-Developer/RajKumar-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
