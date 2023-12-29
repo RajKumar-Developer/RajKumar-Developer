@@ -7,7 +7,7 @@
 
 💞️ I'm actively seeking opportunities to collaborate on MERN (MongoDB, Express.js, React, Node.js) development projects.
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rajkumarr28) for potential collaborations.
+📫 Let's connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajkumarr28) for potential collaborations.
 
 
 
