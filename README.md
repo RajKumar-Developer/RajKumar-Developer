@@ -1,13 +1,13 @@
 # 💫 About Me:
-👋 Hello, I'm Raj Kumar, a Developer specializing in VR/AR/ER and Web Applications.
+- Hello, I'm Raj Kumar, a Developer specializing in VR/AR/ER and Web Applications.
 
-👀 My primary interests lie in creating immersive experiences through Virtual Reality (VR), Augmented Reality (AR), and Extended Reality (ER) applications. Additionally, I excel in Web Application Development.
+- My primary interests lie in creating immersive experiences through Virtual Reality (VR), Augmented Reality (AR), and Extended Reality (ER) applications. Additionally, I excel in Web Application Development.
 
-🌱 Currently, I'm honing my skills in Django Backend Framework and working towards becoming a proficient Full Stack Developer.
+- Currently, I'm honing my skills in Django Backend Framework and working towards becoming a proficient Full Stack Developer.
 
-💞️ I'm actively seeking opportunities to collaborate on MERN (MongoDB, Express.js, React, Node.js) development projects.
+- I'm actively seeking opportunities to collaborate on MERN (MongoDB, Express.js, React, Node.js) development projects.
 
-📫 Let's connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajkumarr28) for potential collaborations.
+- Let's connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajkumarr28) for potential collaborations.
 
 
 
