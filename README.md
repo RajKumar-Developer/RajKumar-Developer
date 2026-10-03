@@ -21,7 +21,7 @@
 [![cons](https://github-readme-stats.vercel.app/api?username=Rajkumar-Developer&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&card_width=560)](https://github.com/RajKumar-Developer)
 [![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumar-Developer&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&card_width=100&hide_progress=true)](https://github.com/RajKumar-Developer)<br/>
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajkumar-Developer&theme=highcontrast&hide_border=false&card_width=1200)](https://github.com/RajKumar-Developer)<br/>
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RajKumar-Developer&theme=github-compact&hide_border=false&bg_color=000000&color=ffffff&area=true&line=5ed3f3&hide_border=false)](https://github.com/RajKumar-Developer)<br/>
+<!--[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RajKumar-Developer&theme=github-compact&hide_border=false&bg_color=000000&color=ffffff&area=true&line=5ed3f3&hide_border=false)](https://github.com/RajKumar-Developer)<br/>  -->
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
